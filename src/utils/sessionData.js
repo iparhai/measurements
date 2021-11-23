@@ -51,7 +51,7 @@ const sendData = (prb, gt) => {
         },
         error: function(data) {
             //alert(data);
-        }
+        } 
     });
 }
 const authenticate = () =>{
